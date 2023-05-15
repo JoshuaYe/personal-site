@@ -3,7 +3,8 @@ export default function Github() {
     <a
       className=" -m-1 p-1"
       aria-label="Follow on GitHub"
-      href="https://github.com/daniel-yili-ye"
+      href="https://github.com/JoshuaYe"
+      target="_blank"
     >
       <svg
         viewBox="0 0 24 24"

@@ -3,7 +3,8 @@ export default function LinkedIn() {
     <a
       className=" -m-1 p-1"
       aria-label="Follow on LinkedIn"
-      href="https://www.linkedin.com/in/daniel-ye/"
+      href="https://www.linkedin.com/in/joshuaye3/"
+      target="_blank"
     >
       <svg
         viewBox="0 0 24 24"
