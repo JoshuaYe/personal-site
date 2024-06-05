@@ -51,13 +51,13 @@ function App() {
             </div>
             <div className="columns-2 font-light text-xl space-y-4">
               <div className="space-y-4">
-                <a href="./src/assets/resume2.pdf" target="_blank" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">📄 Resume</a>
+                <a href="./src/assets/resume.pdf" target="_blank" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">📄 Resume</a>
                 <div>
                 <a href="https://www.goodreads.com/user/show/156080111-joshua-ye" target="_blank" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">📚 Goodreads</a>
                 </div>
               </div>
               <div className="space-y-4">
-                <a href="https://sleet-litter-236.notion.site/Sistering-922e4fb3ea944947bc1245e11663b90c" target="_blank" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">🚀 Projects</a>
+                <a href="https://sleet-litter-236.notion.site/Josh-s-Projects-92f0abdb420d4fa1935bf5754f63e898?pvs=4" target="_blank" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">🚀 Projects</a>
                 <div>
                   <a href="mailto:j96ye@uwaterloo.ca" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">🤙 Contact Me</a>
                 </div>
