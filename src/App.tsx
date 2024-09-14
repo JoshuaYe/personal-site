@@ -51,7 +51,7 @@ function App() {
             </div>
             <div className="columns-2 font-light text-xl space-y-4">
               <div className="space-y-4">
-                <a href="/public/assets/resume.pdf" target="_blank" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">📄 Resume</a>
+                <a href="/assets/resume.pdf" target="_blank" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">📄 Resume</a>
                 <div>
                 <a href="https://www.goodreads.com/user/show/156080111-joshua-ye" target="_blank" className="dark:text-neutral-100 dark:hover:text-neutral-400 text-gray-900 hover:text-gray-500">📚 Goodreads</a>
                 </div>
