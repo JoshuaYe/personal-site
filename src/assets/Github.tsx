@@ -1,7 +1,7 @@
 export default function Github() {
   return (
     <a
-      className=" -m-1 p-1"
+      className="text-link text-neutral-500 -m-1 p-1"
       aria-label="Follow on GitHub"
       href="https://github.com/JoshuaYe"
       target="_blank"
@@ -9,7 +9,7 @@ export default function Github() {
       <svg
         viewBox="0 0 24 24"
         aria-hidden="true"
-        className="h-6 w-6 fill-neutral-500 transition -hover:fill-neutral-600 dark:fill-neutral-300 dark:-hover:fill-neutral-200"
+        className="h-6 w-6 fill-current"
       >
         <path
           fill-rule="evenodd"

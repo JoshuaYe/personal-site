@@ -2,6 +2,52 @@
 @tailwind components;
 @tailwind utilities;
 
-.dark {
-  @apply bg-gray-800 text-neutral-100;
+body {
+  @apply bg-gray-800 text-neutral-100 text-sm leading-relaxed;
+  font-family: Manrope, sans-serif;
+  letter-spacing: 0.07em;
+}
+
+h1 {
+  font-family: Radley, sans-serif;
+}
+
+.text-link {
+  @apply transition-colors;
+}
+
+.text-link:hover {
+  @apply text-neutral-400;
+}
+
+.underline {
+  text-decoration-thickness: 2.5px;
+  text-underline-offset: 4px;
+  text-decoration-color: rgba(255, 255, 255, 0.3);
+}
+
+.footer {
+  @apply text-neutral-500;
+}
+
+.experience {
+  @apply space-y-3 transition-transform duration-500 hover:-translate-y-1 cursor-pointer;
+}
+
+.experience-details {
+  @apply text-xs uppercase tracking-wider text-neutral-400;
+}
+
+.modal-overlay {
+  @apply fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4;
+}
+
+.page-container {
+  @apply w-full flex items-center justify-center pt-36;
+}
+
+@media (max-width: 600px) {
+  .page-container {
+    @apply pt-24;
+  }
 }
