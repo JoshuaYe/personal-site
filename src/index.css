@@ -31,7 +31,7 @@ h1 {
 }
 
 .experience {
-  @apply space-y-3 transition-transform duration-500 hover:-translate-y-1 cursor-pointer;
+  @apply space-y-5 transition-transform duration-500 hover:-translate-y-1 cursor-pointer;
 }
 
 .experience-details {
